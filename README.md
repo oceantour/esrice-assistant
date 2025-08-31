@@ -2,6 +2,10 @@
 
 ## 星穂写作
 
+**项目拉取后**
+
+- 命令行输入 pnpm add -D esbuild, pnpm run build.
+
 This is the README for your extension "star-shear-assistant". After writing up a brief description, we recommend including the following sections.
 
 ## Features
