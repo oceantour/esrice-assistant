@@ -1,9 +1,9 @@
-# Change Log
+# 更新日志
 
-All notable changes to the "star-shear-assistant" extension will be documented in this file.
+本文件将记录 "star-shear-assistant" 扩展的所有重要变更。
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+有关如何组织此文件的建议，请参阅 [Keep a Changelog](http://keepachangelog.com/)。
 
-## [Unreleased]
+## [未发布]
 
-- Initial release
+- 初始发布

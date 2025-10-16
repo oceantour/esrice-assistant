@@ -1,7 +1,15 @@
 {
-  "name": "star-shear-assistant",
-  "displayName": "Star-Shear Assistant",
-  "description": "",
+  "name": "esrice-assistant",
+  "displayName": "ESRice Assistant",
+  "publisher": "85478899-af27-6705-9e6a-eef365aa06b9",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oceantour/esrice-assistant.git"
+  },
+  "homepage": "https://gitee.com/eloria/esrice-assistant",
+  "bugs": {
+    "url": "https://github.com/oceantour/esrice-assistant/issues"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
