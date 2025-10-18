@@ -22,7 +22,7 @@
   "contributes": {
     "commands": [
       {
-        "command": "star-shear-assistant.helloWorld",
+        "command": "esrice-assistant.helloWorld",
         "title": "Hello World"
       }
     ]
